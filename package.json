@@ -35,7 +35,7 @@
     "grunt-svgmin": "^2.0.1",
     "grunt-usemin": "^3.0.0",
     "grunt-wiredep": "^2.0.0",
-    "jasmine": "^2.3.1",
+    "http-proxy-middleware": "0.0.5",
     "jasmine-core": "^2.3.4",
     "jshint-stylish": "^2.0.0",
     "karma": "^0.12.36",
@@ -56,6 +56,7 @@
   },
   "dependencies": {
     "body-parser": "^1.12.3",
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "mermaid": "^0.4.0"
   }
 }
